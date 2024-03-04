@@ -1,9 +1,13 @@
-Resume Website
+Certainly, here's the markdown code including the file structure section:
 
-This project is a simple resume website showcasing your skills, experience, and contact information. It consists of two HTML pages (index.html and contact.html), an image folder (images/), a CSS stylesheet (style.css), and a document folder (documents/) containing your resume PDF.
+```markdown
+# Resume Website
 
-File Structure
+This project is a simple resume website showcasing your skills, experience, and contact information. 
 
+## File Structure
+
+```
 resume-website/
 │
 ├── index.html
@@ -13,26 +17,30 @@ resume-website/
 │   └── profile.jpg
 └── documents/
     └── resume.pdf
+```
 
-Description
+## Description
 
-- index.html: This is the main page of your resume website. It provides an overview of your skills, experience, and a brief introduction.
-- contact.html: This page contains a contact form where visitors can reach out to you.
-- style.css: This file contains the styles for both HTML pages to ensure consistent visual presentation across the website.
-- images/: This folder contains images used in the website, including your profile picture (profile.jpg) and background images (background.jpg).
-- documents/: This folder contains your resume in PDF format (resume.pdf).
+- **index.html:** Main page providing an overview of your skills, experience, and a brief introduction.
+- **contact.html:** Contains a contact form for visitors to reach out to you.
+- **style.css:** Stylesheet ensuring consistent visual presentation across the website.
+- **images/:** Folder containing images used in the website, including your profile picture (profile.jpg) and background images.
+- **documents/:** Folder containing your resume in PDF format (resume.pdf).
 
-Usage
+## Usage
 
 To use this project:
 
 1. Clone this repository to your local machine.
-2. Open index.html and contact.html in your preferred web browser to view the website.
+2. Open `index.html` and `contact.html` in your preferred web browser to view the website.
 3. Customize the content in the HTML files to reflect your own skills, experience, and contact information.
-4. Replace the images in the images/ folder with your own profile picture and background images if desired.
-5. Place your resume in PDF format in the documents/ folder, or update the path in the HTML files accordingly.
-6. Modify the styles in style.css to match your preferred visual design.
+4. Replace the images in the `images/` folder with your own profile picture and background images if desired.
+5. Place your resume in PDF format in the `documents/` folder, or update the path in the HTML files accordingly.
+6. Modify the styles in `style.css` to match your preferred visual design.
 
-Credits
+## Credits
 
-- Font Awesome (https://fontawesome.com/) for icons used in the website.
+- [Font Awesome](https://fontawesome.com/) for icons used in the website.
+```
+
+This code includes both the file structure section and the rest of the README content. You can copy and paste it into your README.md file in your GitHub repository.
