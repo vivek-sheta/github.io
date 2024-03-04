@@ -1,23 +1,6 @@
-Certainly, here's the markdown code including the file structure section:
-
-```markdown
 # Resume Website
 
 This project is a simple resume website showcasing your skills, experience, and contact information. 
-
-## File Structure
-
-```
-resume-website/
-│
-├── index.html
-├── contact.html
-├── style.css
-├── images/
-│   └── profile.jpg
-└── documents/
-    └── resume.pdf
-```
 
 ## Description
 
@@ -41,6 +24,3 @@ To use this project:
 ## Credits
 
 - [Font Awesome](https://fontawesome.com/) for icons used in the website.
-```
-
-This code includes both the file structure section and the rest of the README content. You can copy and paste it into your README.md file in your GitHub repository.
