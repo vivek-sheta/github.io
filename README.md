@@ -10,15 +10,19 @@ This project is a simple resume website showcasing your skills, experience, and 
 - **images/:** Folder containing images used in the website, including your profile picture (profile.jpg) and background images.
 - **documents/:** Folder containing your resume in PDF format (resume.pdf).
 
-resume-website/ <br>
-│<br>
-├── index.html<br>
-├── contact.html<br>
-├── style.css<br>
-├── images/<br>
-│ └── profile.jpg<br>
-└── documents/<br>
-  └── resume.pdf<br>
+## File Structure
+
+resume-website/
+│
+├── index.html
+├── contact.html
+├── style.css
+├── images/
+│   ├── profile.jpg
+│   └── background.jpg
+└── documents/
+    └── resume.pdf
+
 
 ## Usage
 
