@@ -12,16 +12,16 @@ This project is a simple resume website showcasing your skills, experience, and 
 
 ## File Structure
 
-resume-website/
-│
-├── index.html
-├── contact.html
-├── style.css
-├── images/
-│   ├── profile.jpg
-│   └── background.jpg
-└── documents/
-    └── resume.pdf
+resume-website/<br>
+│<br>
+├── index.html<br>
+├── contact.html<br>
+├── style.css<br>
+├── images/<br>
+│   ├── profile.jpg<br>
+│   └── background.jpg<br>
+└── documents/<br>
+    └── resume.pdf<br>
 
 
 ## Usage
