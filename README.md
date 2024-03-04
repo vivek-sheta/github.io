@@ -11,7 +11,7 @@ This project is a simple resume website showcasing your skills, experience, and 
 - **documents/:** Folder containing your resume in PDF format (resume.pdf).
 
 ## File Structure
-``bash
+```bash
 resume-website/
 │
 ├── index.html
@@ -22,7 +22,7 @@ resume-website/
 │   └── background.jpg
 └── documents/<br>
     └── resume.pdf
-``
+```
 
 ## Usage
 
