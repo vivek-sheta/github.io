@@ -20,7 +20,7 @@ resume-website/
 ├── images/
 │   ├── profile.jpg
 │   └── background.jpg
-└── documents/<br>
+└── documents/
     └── resume.pdf
 ```
 
