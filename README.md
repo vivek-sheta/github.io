@@ -18,7 +18,7 @@ resume-website/ <br>
 ├── images/<br>
 │ └── profile.jpg<br>
 └── documents/<br>
-└── resume.pdf<br>
+  └── resume.pdf<br>
 
 ## Usage
 
