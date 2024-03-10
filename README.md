@@ -1,7 +1,8 @@
-# Resume Website
+# Resume Website : 
 
 This project is a simple resume website showcasing your skills, experience, and contact information. 
 
+View Site: [https://vivek-sheta.github.io/]
 ## Description
 
 - **index.html:** Main page providing an overview of your skills, experience, and a brief introduction.
